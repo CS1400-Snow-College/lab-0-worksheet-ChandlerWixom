@@ -6,7 +6,7 @@ After reading README.md complete this worksheet by editing this file and marking
 
 3) In pair programming, who is on the hook to suggest what to do next? a) the person at the keyboard *b) the person not at the keyboard
 
-4) How would the binary value 10111 be represented in base 10? a) 4 *b) 8 c) 23 d) 56 e) 10111 f) 11101
+4) How would the binary value 10111 be represented in base 10? a) 4 b) 8 *c) 23 d) 56 e) 10111 f) 11101
 
 5) How would the base-10 value 27 be represented in binary? a) 111 b) 1011 *c) 11011 d) 11110
 
@@ -19,5 +19,3 @@ After reading README.md complete this worksheet by editing this file and marking
 9) What is the git term for uploading changes to a central repository? a) commit *b) push c) clone d) pull
 
 10) What is the git term for downloading changes from a central repository? a) commit b) push c) clone *d) pull
-
-uhhh I didn't know some of these so I just Guessed 
